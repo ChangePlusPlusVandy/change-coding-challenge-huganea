@@ -1,0 +1,30 @@
+Thank you for this awesome chance to code for Change++! It was a truly enjoyable experience and I appreciate
+the time and effort put in for this coding challenge.
+
+Couple notes about the project and my experience:
+
+- The instructions and format for the project were very straightforward. It gave enough guidelines for the user
+to follow what was needed as well as show their own creativity.
+
+- My first intuition for this project was to code it in the language I know best, Java! What a mistake, lol.
+  It didn't occur to me that Java would not be the best option for the Twitter API. It required several
+  different packages to be installed and gave several headaches overall.
+    After a few days of research and dead ends with Java/Twitter API package, I decided to venture out into
+    the unknown: Python.
+    I'd always heard that Python was the preferred language of many programmers, but I never had the chance
+    to test it out myself until today.
+        I finally figured out how to use the Twitter API in Python.
+
+- Some features/bugs/improvements I would like to resolve:
+    Currently the API is very slow, taking its time pulling in all the data from the two users.
+        Makes it hard to debug due to it needing to load every time.
+        Also shows the JSON file rather than the text exclusively.
+    I did not have the chance to completely filter out the Tweets with photos.
+    Add an option to replay the game several times, keeping a running list of accuracy.
+    ASCII of Kanye and Elon pls.
+    Allowing someone to put in their own twitter handles.
+
+    These all could be solved within 24-48 hours.
+
+This was my first time coding in Python and using an API and I absolutely loved it!
+Can't wait to see what else is in store. 
